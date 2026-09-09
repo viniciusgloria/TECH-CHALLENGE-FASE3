@@ -2,6 +2,10 @@
 
 Vídeo executivo, até 5 minutos. Leia na ordem, em tom de reunião. Pause um segundo em cada traço.
 
+Gravação: https://www.loom.com/share/430e038a03574289950bfbe3a2f643db
+
+Slides: https://docs.google.com/presentation/d/1oJDTPyb5I2uWLme_pxXXtbShCo6L3oTHbZwdZrxXI8A/edit?usp=sharing
+
 O que está entre colchetes é instrução de palco. Não leia. Avance o slide no instante indicado.
 
 ## Bloco 1. Abertura. cerca de 40 segundos
