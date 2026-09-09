@@ -6,7 +6,11 @@ Autor: Vinícius Gomes Machado Gloria
 
 Modelo supervisionado de classificação binária para antecipar municípios em risco de não cumprir a meta do Compromisso Nacional Criança Alfabetizada, com interpretabilidade (SHAP) e leitura para política pública.
 
-Roteiro do vídeo executivo: `docs/roteiro_video.md`
+Vídeo executivo (até 5 minutos): https://www.loom.com/share/430e038a03574289950bfbe3a2f643db
+
+Slides: https://docs.google.com/presentation/d/1oJDTPyb5I2uWLme_pxXXtbShCo6L3oTHbZwdZrxXI8A/edit?usp=sharing
+
+Roteiro: `docs/roteiro_video.md`
 
 ## Contexto do problema
 
